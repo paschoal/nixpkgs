@@ -16746,6 +16746,12 @@
     githubId = 33826198;
     name = "Philipp Arras";
   };
+  paschoal = {
+    email = "paschoal@gmail.com";
+    github = "paschoal";
+    githubId = 64602;
+    name = "Matheus Paschoal";
+  };
   pashashocky = {
     email = "pashashocky@gmail.com";
     github = "pashashocky";
